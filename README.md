@@ -2,11 +2,11 @@
 
 This project started for the Algorithm and Data Structure class of the University Tecnologic of Perú.
 
-## Tipos de Ordenamiento
+## Sorting Types
 
 ### MergeSort
 
-- Ordenamiento basado en "Divide y vencerás". 
+- Order based on "Divide and conquer".
 
 ### QuickSort
 
